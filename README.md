@@ -26,6 +26,7 @@ Characters:
 
 
 
+
 Story:    
 •	The The main character in this game is an army frontliner. His mission is to kill all viruses using his gun to protect his countryman to prevent getting sick. He has a jetsketbord to fly to avoid viruses that he needs to avoid the virus to prevent his death.  His goal is to correct all  vaccines to give other people protection from the virus.           	                                                        	
 	                                                        	
@@ -43,24 +44,36 @@ Theme/ Gameplay:
 
 
 Art Style: 
+
 •	The game is made of 2D design art, with high quality 2D sprites. The main character is an army with gun. Everything is colorful and feels alive, the background is on a mountain full of trees.
-Music/Audio:  	
-•	For the game play it sounds like an army on battle with background radio calls. 
+Music/Audio:  
+
+•	For the game play it sounds like an army on battle with background radio calls.
+
 •	Shooting sound is like a gun.
+
 •	If the game is over, the sound is like a regret tune. Later on back to game play music.
+
 Technical Description:
 
 The game will be wed-game, Windows and PC.
 
 Controls:
+
 	right click mouse to fly and spacebar to shoot the virus.
-•	  Fonts - minecraftia 
+	
+Fonts : minecraftia 
+
  Graphics
-1.	Character
-a.	Army (main character, fly, shoot)
-b.	Viruses (enemy,fly, up and down)
-c.	Vaccines (score,fly)
-d.      bullit(use to kill virus)
+	Character
+	
+-Army (main character, fly, shoot)
+
+-Viruses (enemy,fly, up and down)
+
+-Vaccines (score,fly)
+
+=bullit(use to kill virus)
 
 ![bullet](https://user-images.githubusercontent.com/72851503/96402363-41ecac00-1208-11eb-88ba-e852cb86596a.png)
 
