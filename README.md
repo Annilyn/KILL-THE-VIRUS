@@ -27,6 +27,8 @@ Characters:
 
 
 
+
+
 Story:    
 •	The The main character in this game is an army frontliner. His mission is to kill all viruses using his gun to protect his countryman to prevent getting sick. He has a jetsketbord to fly to avoid viruses that he needs to avoid the virus to prevent his death.  His goal is to correct all  vaccines to give other people protection from the virus.           	                                                        	
 	                                                        	
@@ -59,10 +61,10 @@ Technical Description:
 The game will be wed-game, Windows and PC.
 
 Controls:
-
-	right click mouse to fly and spacebar to shoot the virus.
+right click mouse to fly and spacebar to shoot the virus.
 	
 Fonts : minecraftia 
+![preloader-bar](https://user-images.githubusercontent.com/72851503/96404992-d6f2a380-120e-11eb-999f-9d096604dfb7.png)
 
  Graphics
 	Character
@@ -73,7 +75,7 @@ Fonts : minecraftia
 
 -Vaccines (score,fly)
 
-=bullit(use to kill virus)
+-bullit(use to kill virus)
 
 ![bullet](https://user-images.githubusercontent.com/72851503/96402363-41ecac00-1208-11eb-88ba-e852cb86596a.png)
 
@@ -86,10 +88,14 @@ Fonts : minecraftia
 ![ground](https://user-images.githubusercontent.com/72851503/96402367-444f0600-1208-11eb-8835-4d4925fcfc1a.png)
 
 4.  Preloader-bar:
-Player: Casual players
+![minecraftia](https://user-images.githubusercontent.com/72851503/96405022-e7a31980-120e-11eb-88ce-a81f62f5e6a7.png)
+
 
 Demographics 
-•	  Age: 10 ang up , Sex: Everyone,     
+•	  Age: 10 ang up ,
+          Sex: Everyone,
+          Player: Casual players
+
                                            	
 
 Platforms & Monetization	
