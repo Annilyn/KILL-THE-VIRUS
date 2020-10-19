@@ -61,6 +61,7 @@ Technical Description:
 The game will be wed-game, Windows and PC.
 
 Controls:
+
 right click mouse to fly and spacebar to shoot the virus.
 	
 Fonts : minecraftia
@@ -90,7 +91,6 @@ Fonts : minecraftia
 ![ground](https://user-images.githubusercontent.com/72851503/96402367-444f0600-1208-11eb-8835-4d4925fcfc1a.png)
 
 4.  Preloader-bar:
-![minecraftia](https://user-images.githubusercontent.com/72851503/96405022-e7a31980-120e-11eb-88ce-a81f62f5e6a7.png)
 
 
 Demographics 
