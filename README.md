@@ -48,6 +48,8 @@ Theme/ Gameplay:
 Art Style: 
 
 •	The game is made of 2D design art, with high quality 2D sprites. The main character is an army with gun. Everything is colorful and feels alive, the background is on a mountain full of trees.
+
+
 Music/Audio:  
 
 •	For the game play it sounds like an army on battle with background radio calls.
@@ -70,7 +72,8 @@ Fonts : minecraftia
 
 
  Graphics:
-	Character:
+ 
+ Character:
 	
 -Army (main character, fly, shoot)
 
