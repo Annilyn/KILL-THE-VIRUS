@@ -4,7 +4,8 @@ Kill The Virus
 
 ![logo](https://user-images.githubusercontent.com/72851503/96402341-300b0900-1208-11eb-8e4e-66bab5dd504f.png)
 
-        Game Animation Sample Link:
+
+    
 https://drive.google.com/file/d/1_qYfyiWSqQX4hXrZFh3TnuUv8R1J6kU1/view?usp=sharing
 
 Project Description
@@ -17,8 +18,12 @@ Characters
 ![army-ps](https://user-images.githubusercontent.com/72851503/96402349-3600ea00-1208-11eb-8767-299e08ce0e7f.png)
 
 •	The virus is an enemy that they just want to spread diseases to people. they do not care if someone dies because of them.
+![viruss-ps](https://user-images.githubusercontent.com/72851503/96402371-4618c980-1208-11eb-9e5a-7410389c7b21.png)
+
 
 •	Vaccine is the cure to prevent people from getting sick due to the virus. This is also what the main character needs to collect.
+![vaccines-ps](https://user-images.githubusercontent.com/72851503/96402369-45803300-1208-11eb-93c1-d961f9b56c9b.png)
+
 
 
 Story     
@@ -58,7 +63,10 @@ a.	Army (main character, fly, shoot)
 
 b.	Viruses (enemy,fly, up and down)
  
-c.	   Vaccines (score,fly)
+c.	Vaccines (score,fly)
+
+d.      bullit(use to kill virus)
+
  
 
 
