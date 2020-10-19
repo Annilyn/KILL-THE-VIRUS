@@ -99,7 +99,9 @@ Fonts : minecraftia
 
 Demographics:
 •	  Age: 10 ang up ,
+
           Sex: Everyone,
+          
           Player: Casual players
 
                                            	
