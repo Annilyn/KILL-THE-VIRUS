@@ -14,6 +14,7 @@ Project Description
 Characters
 
 •	The main character in this game is an army frontliner. His mission is to kill all viruses to protect his countryman to prevent getting sick.
+![army-ps](https://user-images.githubusercontent.com/72851503/96402349-3600ea00-1208-11eb-8767-299e08ce0e7f.png)
 
 •	The virus is an enemy that they just want to spread diseases to people. they do not care if someone dies because of them.
 
