@@ -52,12 +52,14 @@ Technical Description:
 
 The game will be wed-game, Windows and PC.
 
-•	Controls -right click mouse to fly and spacebar to shoot the virus.
+Controls:
+	right click mouse to fly and spacebar to shoot the virus.
 •	  Fonts - minecraftia 
- 
-
-
-
+ Graphics
+1.	Character
+a.	Army (main character, fly, shoot)
+b.	Viruses (enemy,fly, up and down)
+c.	Vaccines (score,fly)
 d.      bullit(use to kill virus)
 
 ![bullet](https://user-images.githubusercontent.com/72851503/96402363-41ecac00-1208-11eb-88ba-e852cb86596a.png)
