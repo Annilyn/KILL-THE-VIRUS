@@ -69,8 +69,8 @@ Fonts : minecraftia
 ![minecraftia](https://user-images.githubusercontent.com/72851503/96405022-e7a31980-120e-11eb-88ce-a81f62f5e6a7.png)
 
 
- Graphics
-	Character
+ Graphics:
+	Character:
 	
 -Army (main character, fly, shoot)
 
@@ -92,13 +92,16 @@ Fonts : minecraftia
 
 4.  Preloader-bar:
 
+![preloader-bar](https://user-images.githubusercontent.com/72851503/96404992-d6f2a380-120e-11eb-999f-9d096604dfb7.png)
 
-Demographics 
+
+Demographics:
 •	  Age: 10 ang up ,
           Sex: Everyone,
           Player: Casual players
 
                                            	
 
-Platforms & Monetization	
+Platforms & Monetization:
+
 •	Free game in web-based game.                              
