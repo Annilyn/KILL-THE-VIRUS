@@ -98,14 +98,15 @@ Fonts : minecraftia
 
 
 Demographics:
-•	  Age: 10 ang up ,
 
-          Sex: Everyone,
-          
-          Player: Casual players
+-Age: 10 ang up ,
+
+-Sex: Everyone,
+
+-Player: Casual players
 
                                            	
 
 Platforms & Monetization:
 
-•	Free game in web-based game.                              
+-Free game in web-based game.                              
