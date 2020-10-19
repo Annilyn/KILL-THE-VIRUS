@@ -63,8 +63,10 @@ The game will be wed-game, Windows and PC.
 Controls:
 right click mouse to fly and spacebar to shoot the virus.
 	
-Fonts : minecraftia 
-![preloader-bar](https://user-images.githubusercontent.com/72851503/96404992-d6f2a380-120e-11eb-999f-9d096604dfb7.png)
+Fonts : minecraftia
+
+![minecraftia](https://user-images.githubusercontent.com/72851503/96405022-e7a31980-120e-11eb-88ce-a81f62f5e6a7.png)
+
 
  Graphics
 	Character
