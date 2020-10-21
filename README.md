@@ -2,7 +2,7 @@
 
 ![logo](https://user-images.githubusercontent.com/72851503/96402341-300b0900-1208-11eb-8e4e-66bab5dd504f.png)
 
- ## Game Video link sample: 
+ # Game Video link sample: 
  
 https://drive.google.com/file/d/1_qYfyiWSqQX4hXrZFh3TnuUv8R1J6kU1/view?usp=sharing
 
@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1_qYfyiWSqQX4hXrZFh3TnuUv8R1J6kU1/view?usp=shari
 *	Losing: These are the losing conditions: losing by hitting the virus Losing by a small amount of collecting the vaccine. 
 
 
-#Art Style: 
+# Art Style: 
 
 *	The game is made of 2D design art, with high quality 2D sprites. The main character is an army with gun. Everything is colorful and feels alive, the background is on a mountain full of trees.
 
@@ -55,13 +55,13 @@ https://drive.google.com/file/d/1_qYfyiWSqQX4hXrZFh3TnuUv8R1J6kU1/view?usp=shari
 
 *	If the game is over, the sound is like a regret tune. Later on back to game play music.
 
-#Technical Description:
+# Technical Description:
 
-*       The game will be wed-game, Windows and PC.
+* The game will be wed-game, Windows and PC.
 
 # Controls:
 
-*        right click mouse to fly and spacebar to shoot the virus.
+* right click mouse to fly and spacebar to shoot the virus.
 	
 # Fonts : minecraftia
 
@@ -97,14 +97,14 @@ https://drive.google.com/file/d/1_qYfyiWSqQX4hXrZFh3TnuUv8R1J6kU1/view?usp=shari
 
 # Demographics:
 
-*Age: 10 ang up ,
+* Age: 10 ang up ,
 
-*Sex: Everyone,
+* Sex: Everyone,
 
-*Player: Casual players
+* Player: Casual players
 
                                            	
 
 # Platforms & Monetization:
 
-*Free game in web-based game.                              
+* Free game in web-based game.                              
