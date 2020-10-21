@@ -64,9 +64,10 @@ https://drive.google.com/file/d/1_qYfyiWSqQX4hXrZFh3TnuUv8R1J6kU1/view?usp=shari
 
 # Controls:
 
-* right click mouse to fly and spacebar to shoot the virus.
+* Right click mouse to fly and spacebar to shoot the virus.
 	
-# Fonts : minecraftia
+# Fonts :
+minecraftia
 
 ![minecraftia](https://user-images.githubusercontent.com/72851503/96405022-e7a31980-120e-11eb-88ce-a81f62f5e6a7.png)
 
