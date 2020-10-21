@@ -2,12 +2,13 @@
 
 ![logo](https://user-images.githubusercontent.com/72851503/96402341-300b0900-1208-11eb-8e4e-66bab5dd504f.png)
 
- ## Game Video link sample:   
+ ## Game Video link sample: 
+ 
 https://drive.google.com/file/d/1_qYfyiWSqQX4hXrZFh3TnuUv8R1J6kU1/view?usp=sharing
 
-Project Description:
+# Project Description:
 
-•	This game document describes the details based on the 2D design. The game is based on the virus pandemic. The game plays like how to survive from viruses.
+*	This game document describes the details based on the 2D design. The game is based on the virus pandemic. The game plays like how to survive from viruses.
 
 Characters:
 
