@@ -101,7 +101,7 @@ minecraftia
 
 # Demographics:
 
-* Age: 10 ang up ,
+* Age: 10 and up ,
 
 * Sex: Everyone,
 
